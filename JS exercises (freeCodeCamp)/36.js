@@ -1,0 +1,1 @@
+const myArray = [["cat", "dog", 6],["take a pin", 13]];
