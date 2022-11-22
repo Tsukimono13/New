@@ -1,0 +1,1 @@
+const myArray = ["Apple", 11, "put", "nuts"];
