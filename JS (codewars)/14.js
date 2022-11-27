@@ -1,4 +1,4 @@
-function evalObject(value){
+function evalObject(value) {
     var result = 0;
     switch(value.operation){
       case'+': result = value.a + value.b;
@@ -14,3 +14,4 @@ function evalObject(value){
       case'^': result = Math.pow(value.a, value.b);
         break;
     }
+}
